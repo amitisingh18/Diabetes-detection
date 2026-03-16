@@ -26,10 +26,10 @@ An ML-based web application to predict diabetes risk using XGBoost and Streamlit
 🛠️ Installation & Usage
 To run this project locally:
 
-Clone the repository: git clone https://github.com/amitisingh/Diabetes-detection.git
+Clone the repository: git clone https://github.com/amitisingh18/Diabetes-detection.git
 
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/amitisingh18/Diabetes-detection.git
 Install Dependencies: pip install -r requirements.txt
 
 Bash
@@ -38,4 +38,4 @@ Run the Dashboard: streamlit run app.py
 
 Bash
 streamlit run app.py
-Developed by Amiti B.Tech in CSE (Specialization in AI/ML)
+Developed by Amiti Singh [ B.Tech in CSE (Specialization in AI/ML)]
